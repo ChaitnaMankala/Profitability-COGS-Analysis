@@ -41,7 +41,7 @@ The dashboard tracks several important profitability metrics:
 - Profit by Sales Channel
 - Margin Trends Over Time
 
-**Tools & Technologies**
+**Tools & Technologies:**
 
 | Tool | Purpose |
 |-----|------|
