@@ -1,4 +1,4 @@
-# Profitability & COGS Analysis Dashboard
+# Profitability & COGS Analysis 
 
 A financial analytics project focused on evaluating gross margin performance, cost of goods sold (COGS), and discount impact across product lines and sales channels using Excel, SQL, Python, and BI dashboards.
 
